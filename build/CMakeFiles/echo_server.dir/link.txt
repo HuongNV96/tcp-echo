@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/echo_server.dir/TcpServer.cpp.o CMakeFiles/echo_server.dir/echo_server.cpp.o CMakeFiles/echo_server.dir/circ_buf.cpp.o CMakeFiles/echo_server.dir/LoginMessage.cpp.o CMakeFiles/echo_server.dir/EchoMessage.cpp.o  -o echo_server  -lpthread 
