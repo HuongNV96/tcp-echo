@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huongnv/WS/tcp-echo/EchoMessage.cpp
+iostream
+-
+string.h
+-
+string
+-
+EchoMessage.hpp
+/home/huongnv/WS/tcp-echo/EchoMessage.hpp
+
+/home/huongnv/WS/tcp-echo/EchoMessage.hpp
+string
+-
+vector
+-
+Message.hpp
+/home/huongnv/WS/tcp-echo/Message.hpp
+
+/home/huongnv/WS/tcp-echo/Message.hpp
+stdint.h
+-
+stdlib.h
+-
+
